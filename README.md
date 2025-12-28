@@ -1,3 +1,5 @@
+<img width="1214" height="962" alt="Screenshot 2025-12-28 173344" src="https://github.com/user-attachments/assets/f4495df0-a7dd-45bb-a530-2700a468c35e" />
+
 After unzipping the file contents,
 
 To change your Script Editor Theme : 
